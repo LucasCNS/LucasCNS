@@ -2,8 +2,8 @@
 <br>
 
 - 🔭 Ainda busco minha primeira oportunidade de emprego
-- 🌱 No momento estou reforçando aprendizados em CSS, JavaScript e Bootstrap...
-- 👯 Procuro colaborar e aprimorar meus conhecimentos dentro de uma empresa...
+- 🌱 No momento estou reforçando aprendizados em CSS, JavaScript e Bootstrap
+- 👯 Procuro colaborar e aprimorar meus conhecimentos dentro de uma empresa
 - 🤔 Gostaria de ajuda sobre como conseguir ter a primeira experiência de trabalho
 - 📫 Lucas.cns@hotmail.com
 <br>
