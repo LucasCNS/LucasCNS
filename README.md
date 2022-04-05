@@ -1,9 +1,6 @@
 ### Aoba, bom? 👋
 <br>
 
-- 🔭 Ainda busco minha primeira oportunidade de emprego.
-- 🌱 No momento estou reforçando aprendizados em CSS, JavaScript e Bootstrap.
-- 👯 Procuro colaborar e aprimorar meus conhecimentos dentro de uma empresa.
 - 🤔 Gostaria de uma oportunidade de estágio em desenvolvimento.
 - 📫 Lucas.cns@hotmail.com
 - 📘 PUC Minas - Análise e Desenvolvimento de Sistemas
