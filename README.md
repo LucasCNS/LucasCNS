@@ -6,7 +6,7 @@
 - 👯 Procuro colaborar e aprimorar meus conhecimentos dentro de uma empresa
 - 🤔 Gostaria de uma oportunidade de estágio em desenvolvimento.
 - 📫 Lucas.cns@hotmail.com
-- 📘 PUC - Minas - Análise e Desenvolvimento de Sistemas
+- 📘 PUC Minas - Análise e Desenvolvimento de Sistemas
 <br>
 
 - ⚡ Fun fact: Sou mineiro e tenho intolerância a lactose. 😂
