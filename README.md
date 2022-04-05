@@ -1,5 +1,6 @@
 ### Aoba, bom? 👋
 <br>
+
 - 🤔 Gostaria de uma oportunidade de estágio em desenvolvimento.
 - 📫 Lucas.cns@hotmail.com
 - 📘 PUC Minas - Análise e Desenvolvimento de Sistemas
