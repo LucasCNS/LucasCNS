@@ -2,9 +2,12 @@
  ### Meu nome é Lucas e tenho 24 anos.
 <br>
 
-- 🤔 Procuro uma oportunidade de estágio na área de desenvolvimento.
+- 🔎  Procuro uma oportunidade de estágio na área de desenvolvimento.
 - 📫 Para entrar em contato comigo: Lucas.cns@hotmail.com.
-- 📘 Atualmente estou estudando na PUC Minas - Análise e Desenvolvimento de Sistemas.
+- 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
+- 👯 Estou colaborando no projeto [BREF](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-bref)
+- 📄 Saiba sobre minhas experiências [LucasCNS](https://www.linkedin.com/in/lucascns/)
+- 🌱 Atualmente estou atualizando **Python e C#**
 <br>
 
 - ⚡ Fun fact: Sou mineiro e tenho intolerância a lactose. 😂
@@ -24,11 +27,14 @@
 </div>
   
   ##
- 
+ <h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
 <div> 
+  <a href="https://www.linkedin.com/in/lucascns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/Luskacns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/SrLuska" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> -->
-  <a href="https://www.linkedin.com/in/lucascns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   
   ![Snake animation](https://github.com/LucasCNS/lucascns/blob/output/github-contribution-grid-snake.svg)
     
