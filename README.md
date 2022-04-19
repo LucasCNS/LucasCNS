@@ -7,7 +7,7 @@
 - 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
 - 👯 Estou colaborando no projeto [BREF](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-bref)
 - 📄 Saiba sobre minhas experiências [LucasCNS](https://www.linkedin.com/in/lucascns/)
-- 🌱 Atualmente estou atualizando **Python e C#**
+- 🌱 Atualmente estou aprendendo sobre **Python e C#**
 <br>
 
 - ⚡ Fun fact: Sou mineiro e tenho intolerância a lactose. 😂
