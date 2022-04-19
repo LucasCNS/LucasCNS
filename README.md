@@ -1,9 +1,10 @@
 ### Aoba, bom? 👋
+ ### Meu nome é Lucas e tenho 24 anos.
 <br>
 
-- 🤔 Gostaria de uma oportunidade de estágio em desenvolvimento.
-- 📫 Lucas.cns@hotmail.com
-- 📘 PUC Minas - Análise e Desenvolvimento de Sistemas
+- 🤔 Procuro uma oportunidade de estágio na área de desenvolvimento.
+- 📫 Para entrar em contato comigo: Lucas.cns@hotmail.com.
+- 📘 Atualmente estou estudando na PUC Minas - Análise e Desenvolvimento de Sistemas.
 <br>
 
 - ⚡ Fun fact: Sou mineiro e tenho intolerância a lactose. 😂
@@ -18,6 +19,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c34fb38723661969423dd321c17d307f.gif">
 </div>
   
@@ -25,7 +27,7 @@
  
 <div> 
   <a href="https://instagram.com/Luskacns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/SrLuska" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+ 	<!-- <a href="https://www.twitch.tv/SrLuska" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> -->
   <a href="https://www.linkedin.com/in/lucascns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/LucasCNS/lucascns/blob/output/github-contribution-grid-snake.svg)
