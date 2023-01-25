@@ -5,7 +5,7 @@
 - 🔎  Procuro uma oportunidade de estágio na área de desenvolvimento.
 - 📫 Para entrar em contato comigo: Lucas.cns@hotmail.com.
 - 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
-- 👯 Estou colaborando no projeto [BREF](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t3-strade)
+- 👯 Estou colaborando no projeto [STRADE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t3-strade)
 - 📄 Saiba sobre minhas experiências [LucasCNS](https://www.linkedin.com/in/lucascns/)
 - 🌱 Atualmente estou aprendendo sobre **C#**
 <br>
@@ -23,7 +23,9 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="Lucas-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c34fb38723661969423dd321c17d307f.gif">
+ 
 </div> 
   
   ##
