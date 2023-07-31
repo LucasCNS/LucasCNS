@@ -12,12 +12,16 @@
 
 - ⚡ Fun fact: Sou mineiro e tenho intolerância a lactose. 😂
 
-<!--<div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,dotnet)](https://skillicons.dev)
+<!--
+<div>
   <a href="https://github.com/LucasCNS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasCNS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCNS&layout=compact&langs_count=16&theme=algolia"/>
-</div>-->
+</div>
+-->
   
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,6 +30,7 @@
   <img align="center" alt="Lucas-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c34fb38723661969423dd321c17d307f.gif">
 </div> 
+-->
   
   ##
  <h3 align="left">Conecte-se comigo:</h3>
