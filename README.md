@@ -5,7 +5,7 @@
 - 🔎  Procuro uma oportunidade de estágio na área de desenvolvimento.
 - 📫 Para entrar em contato comigo: Lucas.cns@hotmail.com.
 - 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
-- 👯 Estou colaborando no projeto [STRADE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t3-strade)
+- 👯 Estou colaborando no projeto [CONNEXA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t2-connexa)
 - 📄 Saiba sobre minhas experiências [LucasCNS](https://www.linkedin.com/in/lucascns/)
 - 🌱 Atualmente estou aprendendo sobre **Python** e **C#**
 <br>
