@@ -1,5 +1,5 @@
 ### Aoba, bom? 👋
- ### Meu nome é Lucas e tenho 25 anos.
+ ### Meu nome é Lucas e tenho 26 anos.
 <br>
 
 - 🔎  Procuro uma oportunidade de estágio na área de desenvolvimento.
@@ -7,12 +7,11 @@
 - 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
 - 👯 Estou colaborando no projeto [CONNEXA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t2-connexa)
 - 📄 Saiba sobre minhas experiências [LucasCNS](https://www.linkedin.com/in/lucascns/)
-- 🌱 Atualmente estou aprendendo sobre **Python** e **C#**
 <br>
 
 - ⚡ Fun fact: Sou mineiro e tenho intolerância a lactose. 😂
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,dotnet)](https://skillicons.dev)
+          
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,react,nodejs,python,django,html,css,bootstrap)](https://skillicons.dev)
 <!--
 <div>
   <a href="https://github.com/LucasCNS">
@@ -36,13 +35,16 @@
  <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
+
+
 <div> 
   <a href="https://www.linkedin.com/in/lucascns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/Luskacns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!-- <a href="https://www.twitch.tv/SrLuska" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> -->
+  <!--<a href="https://instagram.com/Luskacns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/SrLuska" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> 
   
   
-  ![Snake animation](https://github.com/LucasCNS/lucascns/blob/output/github-contribution-grid-snake.svg)
- 
+ <!-- ![Snake animation](https://github.com/LucasCNS/lucascns/blob/output/github-contribution-grid-snake.svg)
+  -->
     
  </div>
+ 
