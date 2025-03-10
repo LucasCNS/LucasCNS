@@ -1,11 +1,9 @@
 ### Aoba, bom? 👋
- ### Meu nome é Lucas e tenho 26 anos.
+ ### Meu nome é Lucas e tenho 27 anos.
 <br>
 
-- 🔎  Procuro uma oportunidade de estágio na área de desenvolvimento.
 - 📫 Para entrar em contato comigo: Lucas.cns@hotmail.com.
-- 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
-- 👯 Estou colaborando no projeto [CONNEXA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t2-connexa)
+- 📘 Formado na Pontifícia Universidade de Minas Gerais em Análise e Desenvolvimento de Sistemas.
 - 📄 Saiba sobre minhas experiências [LucasCNS](https://www.linkedin.com/in/lucascns/)
 <br>
 
